@@ -27,6 +27,7 @@ This project presents an interactive **Sales Dashboard** created in **Power BI**
 
 ## 📂 Files
 
+- `Sales_Dashboard_Dataset.xlsx` - Raw data for sales performance analysis
 - `Sales_Performance_Dashboard.pptx` – Summary report with insights
 - `Sales_Dashboard.pdf` – Exported view of the interactive dashboard
 - `README.md` – This file
