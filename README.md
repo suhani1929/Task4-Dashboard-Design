@@ -1,5 +1,5 @@
 # Task4-Dashboard-Design
-# 📊 Sales Performance Dashboard (Power BI)
+## 📊 Sales Performance Dashboard (Power BI)
 
 This project presents an interactive **Sales Dashboard** created in **Power BI** to help business stakeholders gain actionable insights into sales trends, profits, and key performance indicators (KPIs).
 
